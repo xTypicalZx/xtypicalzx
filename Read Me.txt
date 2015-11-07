@@ -1,0 +1,5 @@
+Hello!
+
+Thanks for purchasing this loading screen, I deeply appreciate it. In order for you to get started, please get an API (http://steamcommunity.com/dev/apikey) and put that in the index.php. Edit your rule list to your liking and edit the custom message shower and you are good to go!
+
+If you experience any problems, don't hesitate to contact me!
